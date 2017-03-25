@@ -1,2 +1,2 @@
-# peak_player
-Pie chart style player for peak patches
+# PEAK_player
+Pie chart style player for PEAK patches
