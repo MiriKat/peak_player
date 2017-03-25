@@ -4,7 +4,10 @@ body{
   text-align:center;
   font-family:'Open Sans', sans-serif;
   position:relative;
-  background-image: url(https://68.media.tumblr.com/5214019338f590d7ccac7d987b3a3b53/tumblr_o8fpknygyT1vwnw65o1_r1_1280.gif);
+  /*background-image: url(https://68.media.tumblr.com/5214019338f590d7ccac7d987b3a3b53/tumblr_o8fpknygyT1vwnw65o1_r1_1280.gif);*/
+  background-image: url(https://68.media.tumblr.com/5ee6dfe67f0b245ee5ca3445f97be960/tumblr_oho4zgDLve1uqrdeoo1_1280.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   background-color: rgba(0, 0, 0, 0.9);
   color: lightgray;
 }
