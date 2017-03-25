@@ -1,3 +1,4 @@
 # peak_player
 Pie chart style player for PEAK patches
-![peak_player](https://github.com/MiriKat/master/peak_player/Screen Shot 2017-03-25 at 21.04.08.png "P E A K")
+![Peak Player](https://github.com/MiriKat/peak_player/blob/master/Screen%20Shot%202017-03-25%20at%2021.04.08.png?raw=true)
+
