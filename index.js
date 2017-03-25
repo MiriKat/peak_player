@@ -3,7 +3,7 @@ var chartdata = {
   "dataset": [
     {
       "label": "A",
-      "fill": "#E51C23",
+      "fill": "#FF5722",
       "children": [
         {
           "label": "A",
@@ -372,7 +372,7 @@ var chartdata = {
     },
     {
       "label": "J",
-      "fill": "#256B24",
+      "fill": "#4CAf50",
       "children": [
         {
           "label": "J",
@@ -387,7 +387,7 @@ var chartdata = {
     },
     {
       "label": "K",
-      "fill": "#FFBB00",
+      "fill": "#FF9800",
       "children": [
         {
           "label": "K",
@@ -438,7 +438,7 @@ var chartdata = {
           "label": "K",
           "children": [
             {
-              "label": "M",
+              "label": "K",
               "count": "4"
             }
           ]
