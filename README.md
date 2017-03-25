@@ -1,2 +1,2 @@
 # peak_player
-Neural network style player for peak patches
+Pie chart style player for peak patches
